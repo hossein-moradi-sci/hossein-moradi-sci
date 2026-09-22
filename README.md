@@ -94,7 +94,7 @@ document my engineering projects, simulations, and code as I build them.
 [![Profile views](https://komarev.com/ghpvc/?username=hossein-moradi-sci&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hossein-moradi-sci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hossein_Moradi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-moradi-sci/)
 [![Email](https://img.shields.io/badge/Gmail-moradi.msee.sci@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradi.msee.sci@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hossein-moradi-sci-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossein-moradi-sci)
+[![GitHub](https://img.shields.io/badge/GitHub-hossein--moradi--sci-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossein-moradi-sci)
 
 </div>
 
