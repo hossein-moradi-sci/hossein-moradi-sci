@@ -16,10 +16,9 @@
 
 ## 👤 About Me
 
-I am an **Electrical Power Engineering graduate** with a strong foundation in
-power generation, transmission, and distribution systems — and a growing passion
-for the **software and intelligent technologies** that are transforming the
-energy sector.
+**Electrical Power Engineering graduate** with a strong foundation in power
+generation, transmission, and distribution systems — and a passion for the
+**software and intelligent technologies** that are transforming the energy sector.
 
 I created this profile as my **professional technical portfolio**: a place to
 document my engineering projects, simulations, and code as I build them.
@@ -29,6 +28,7 @@ document my engineering projects, simulations, and code as I build them.
 - 🧠 Exploring **Artificial Intelligence** applied to electrical engineering
 - 💻 Self-driven learner in **software development** and engineering tooling
 - 🎯 Goal: engineering solutions where **energy meets intelligent software**
+- 🤝 Happy to collaborate on power-systems, automation, and AI-in-energy projects
 
 ---
 
@@ -52,7 +52,8 @@ document my engineering projects, simulations, and code as I build them.
 |---|---|
 | **Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | **Power Systems Tools** | ![ETAP](https://img.shields.io/badge/ETAP-00549F?style=flat-square&logo=&logoColor=white) ![DIgSILENT](https://img.shields.io/badge/DIgSILENT_PowerFactory-8A2BE2?style=flat-square) ![PSCAD](https://img.shields.io/badge/PSCAD-0D47A1?style=flat-square) ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat-square&logo=mathworks&logoColor=white) |
-| **Electronics & Automation** | ![PLC](https://img.shields.io/badge/PLC_Basics-00A650?style=flat-square) ![SCADA](https://img.shields.io/badge/SCADA_Fundamentals-00897B?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **Electronics & Embedded** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) |
+| **Automation** | ![PLC](https://img.shields.io/badge/PLC_Basics-00A650?style=flat-square) ![SCADA](https://img.shields.io/badge/SCADA_Fundamentals-00897B?style=flat-square) |
 | **Software & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 | **AI & Data (learning)** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 
@@ -60,8 +61,8 @@ document my engineering projects, simulations, and code as I build them.
 
 ## 🚀 Featured Projects
 
-> Slots reserved for my upcoming work — repositories will appear here
-> as each project ships. Nothing is published yet.
+> Each entry will link to a shipped repository — code, simulation files,
+> and documented results.
 
 | | Project | Domain | Status |
 |---|---|---|---|
@@ -90,6 +91,7 @@ document my engineering projects, simulations, and code as I build them.
 
 <div align="center">
 
+[![Profile views](https://komarev.com/ghpvc/?username=hossein-moradi-sci&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hossein-moradi-sci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hossein_Moradi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-moradi-sci/)
 [![Email](https://img.shields.io/badge/Gmail-moradi.msee.sci@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradi.msee.sci@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hossein-moradi-sci-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossein-moradi-sci)
